@@ -1,6 +1,8 @@
 # QR Code Generator
 This is a simple QR code generator created with HTML, CSS, and JavaScript.
 
+![QR Code Generator screenshot](https://raw.githubusercontent.com/qasim006/qr-code-generator/main/Screenshot.png)
+
 ## Usage
 To use this QR code generator, follow these steps:
 
